@@ -1,4 +1,4 @@
-# UNIVERSITY OF NOTTINGHAM MACHINE LEARNIGN COMP 3009 COURSEWORK.
+# UNIVERSITY OF NOTTINGHAM MACHINE LEARNING COMP 3009 COURSEWORK.
 
 This repository is for educational purposes for the students of Univeristy of Nottingham for the Course : Machine Learning COMP3009. 
 This repo will contain matlab code for the coursework assigned to the Group 51.
